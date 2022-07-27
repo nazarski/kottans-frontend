@@ -1,4 +1,9 @@
-# Git та GitHub
-1. Що нового - все 
-2. Все нове дивує
-3. Використовувати, що можна
+## Linux CLI, and HTTP
+1. Never used Linux terminal before
+2. Not that hard
+3. Use what u can, lear what u can't
+
+## Git та GitHub
+1. What's new - kinda everything 
+2. It's more complicated then I thought
+3. Use what u can, lear what u can't
