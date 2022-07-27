@@ -26,11 +26,11 @@
 
 <details>
   <summary>Screenshots</summary>
-  #Coursera
-  ![Coursera html](https://github.com/nazarski/kottans-frontend/blob/main/task_html_css_intro/learn_html_coursera.jpg)
-  ![Coursera css](https://github.com/nazarski/kottans-frontend/blob/main/task_html_css_intro/learn_css_coursera.jpg)
+#Coursera
+![Coursera html](https://github.com/nazarski/kottans-frontend/blob/main/task_html_css_intro/learn_html_coursera.jpg)
+![Coursera css](https://github.com/nazarski/kottans-frontend/blob/main/task_html_css_intro/learn_css_coursera.jpg)
   
-  #CodeAcademy
-  ![CodeAcademy html](https://github.com/nazarski/kottans-frontend/blob/main/task_html_css_intro/learn_html_codeacademy.jpg)
-  ![CodeAcademy css](https://github.com/nazarski/kottans-frontend/blob/main/task_html_css_intro/learn_css_codeacademy.jpg)
+#CodeAcademy
+![CodeAcademy html](https://github.com/nazarski/kottans-frontend/blob/main/task_html_css_intro/learn_html_codeacademy.jpg)
+![CodeAcademy css](https://github.com/nazarski/kottans-frontend/blob/main/task_html_css_intro/learn_css_codeacademy.jpg)
 </details>
