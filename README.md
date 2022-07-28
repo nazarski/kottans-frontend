@@ -39,4 +39,16 @@
 
 1. Lovely 
 2. No idea
-3. Basics for evetyrhing
+3. Basics for everything
+
+## Responsive Web Design
+<details>
+  <summary>Screenshots</summary>
+
+![Flex Froggy](https://github.com/nazarski/kottans-frontend/blob/main/task_responsive_web_design/flexFroggy.jpg?)
+![Grid Garden](https://github.com/nazarski/kottans-frontend/blob/main/task_responsive_web_design/gridGarden.jpg)
+</details>
+
+1. I'm familiar with flexbox, but CSS grid is something new.
+2. It's game-changing!
+3. Use what u can, lear what u can't
