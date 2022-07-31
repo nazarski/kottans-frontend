@@ -45,10 +45,16 @@
 <details>
   <summary>Screenshots</summary>
 
-![Flex Froggy](https://github.com/nazarski/kottans-frontend/blob/main/task_responsive_web_design/flexFroggy.jpg?)
+![Flex Froggy](https://github.com/nazarski/kottans-frontend/blob/main/task_responsive_web_design/flexFroggy.jpg)
 ![Grid Garden](https://github.com/nazarski/kottans-frontend/blob/main/task_responsive_web_design/gridGarden.jpg)
 </details>
 
 1. I'm familiar with flexbox, but CSS grid is something new.
 2. It's game-changing!
 3. Use what u can, lear what u can't
+
+## HTML-CSS Popup
+[Demo]:<https://nazarski.github.io/HTML_CSS-Popup/>
+
+[Files]:<https://github.com/nazarski/HTML_CSS-Popup/tree/master>
+
