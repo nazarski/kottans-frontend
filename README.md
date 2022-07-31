@@ -55,7 +55,7 @@
 
 ## HTML-CSS Popup
 
-[Demo]:<https://nazarski.github.io/HTML_CSS-Popup/>
+[Demo](https://nazarski.github.io/HTML_CSS-Popup/)
 
-[Files]:<https://github.com/nazarski/HTML_CSS-Popup/tree/master>
+[Files](https://github.com/nazarski/HTML_CSS-Popup/tree/master)
 
