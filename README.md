@@ -45,7 +45,7 @@
 <details>
   <summary>Screenshots</summary>
 
-![Flex Froggy](https://github.com/nazarski/kottans-frontend/blob/main/task_responsive_web_design/flexFroggy.jpg)
+![Coursera](https://github.com/nazarski/kottans-frontend/blob/main/task_responsive_web_design/flexFroggy.jpg)
 ![Grid Garden](https://github.com/nazarski/kottans-frontend/blob/main/task_responsive_web_design/gridGarden.jpg)
 </details>
 
@@ -59,3 +59,16 @@
 
 [Files](https://github.com/nazarski/HTML_CSS-Popup/tree/master)
 
+## JS Basics
+<details>
+  <summary>Screenshots</summary>
+  
+![Basic JS](https://github.com/nazarski/kottans-frontend/blob/main/task_js_basics/fcc_basicJavaScript.jpg)
+![Basic Data Structure](https://github.com/nazarski/kottans-frontend/blob/main/task_js_basics/fcc_basicDataStructure.jpg)
+![ES6](https://github.com/nazarski/kottans-frontend/blob/main/task_js_basics/fcc_ES6.jpg)
+![Basic Algorithm Scripting](https://github.com/nazarski/kottans-frontend/blob/main/task_js_basics/fcc_basicAlgorithmScrupting.jpg)
+![Functional Programming](https://github.com/nazarski/kottans-frontend/blob/main/task_js_basics/fcc_functionalProgramming.jpg)
+![Intermediate Algorithm Scripting](https://github.com/nazarski/kottans-frontend/blob/main/task_js_basics/fcc_intermediateAlgorithmScripting.jpg)
+</details>
+
+It was challenging. Basics are boring, some tasks're difficult to understand. As for me, FCC's not best platform to learn, but nice for some practice.
